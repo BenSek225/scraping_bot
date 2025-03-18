@@ -214,6 +214,3 @@ Email envoyé avec succès !
 ## 🎉 Conclusion
 
 Ce bot est une introduction solide à l’automatisation et au scraping web. Il montre comment combiner des outils Python pour des tâches pratiques. Avec les améliorations proposées, il peut devenir un assistant personnalisé ou un outil professionnel. Explore, modifie, et fais-en ce que tu veux !
-```
-
----
